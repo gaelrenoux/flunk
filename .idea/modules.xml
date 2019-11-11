@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flunk-sample.iml" filepath="$PROJECT_DIR$/.idea/modules/flunk-sample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flunk-sample-build.iml" filepath="$PROJECT_DIR$/.idea/modules/flunk-sample-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flunk.iml" filepath="$PROJECT_DIR$/.idea/modules/flunk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flunk-build.iml" filepath="$PROJECT_DIR$/.idea/modules/flunk-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mainRunner.iml" filepath="$PROJECT_DIR$/.idea/modules/mainRunner.iml" />
     </modules>
   </component>
